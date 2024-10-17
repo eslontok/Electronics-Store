@@ -1,0 +1,27 @@
+a
+b
+c
+
+A
+
+A Mike Tyson 06/30/1966 12345 marketing 75000 true
+A Michael Phelps 06/30/1985 54321 finance 80000 true
+A Manny Pacquiao 12/17/1978 15243 accounting 45000 false
+A Georges St-Pierre 05/19/1981 51423 it 80000 true
+A Usain Bolt 08/21/1986 23145 operations 40000 false
+
+A Michael Phelps 06/30/1985 54321 finance 80000 true
+
+R
+
+R Georges St-Pierre 05/19/1981 51423
+R Usain Bolt 08/21/1986 23145
+
+R Georges St-Pierre 05/19/1981 51423
+
+PP
+PD
+POD finance
+PSA
+PSD
+TS
