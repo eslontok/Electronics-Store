@@ -1,1 +1,4 @@
-# ElectronicsStore
+# About Electronics Store
+This is an administrative application for an imaginary Electronics Store. The user (administrator) can process and view purchased electronics, manage sales and employment, and view gross sales and profit. This project employs polymorphism, inheritance, encapsulation, and abstraction. Includes back-end development.
+# How To Run Electronics Store
+To run Electronics Store, run the "Run.java" file in the source code. Afterwards, follow the directions displayed in the terminal. After entering the password, the administrator can now use the Electronics Store's functionalites. To quickly view the project's functionalities, there is a folder titled "TestCases" that contains several test case files - each file contains a list of commands. For a given test case file, copy the entirety of the file and paste it into the terminal. To test individual functionalities, enter "HELP" into the terminal - a list of possible commands will be displayed.
